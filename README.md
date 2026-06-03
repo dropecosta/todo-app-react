@@ -77,7 +77,3 @@ O app usa React para gerenciar estado e `localStorage` para persistir a lista de
 - implementar edição de tarefas
 - permitir limpar todas as tarefas concluídas
 - adicionar animações de transição
-
-## Observações
-
-O projeto é uma base simples e leve para aprendizado de React e desenvolvimento com Vite. Pode ser estendido facilmente com novos recursos e estilos.
