@@ -1,6 +1,6 @@
 # Todo App
 
-Pequeno app de tarefas construído com React e Vite para demonstrar um fluxo simples de criação, marcação e remoção de tarefas.
+Pequeno app de tarefas construído com React para demonstrar um fluxo simples de criação, marcação e remoção de tarefas.
 
 ## Visão Geral
 
@@ -68,7 +68,6 @@ O app usa React para gerenciar estado e `localStorage` para persistir a lista de
 ## Tecnologias
 
 - React
-- Vite
 - JavaScript
 - CSS
 
